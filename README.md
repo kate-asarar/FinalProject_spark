@@ -1,4 +1,5 @@
-# Final Udacity Nano-degree Project: Predicting Sparkify Churn
+# Final Udacity Nano-degree Project
+# Predicting Sparkify Churn
 
 ## Project description:
 
