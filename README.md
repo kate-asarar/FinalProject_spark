@@ -1,21 +1,21 @@
-Final Udacity Nano-degree Project: Predicting Sparkify Churn
+# Final Udacity Nano-degree Project: Predicting Sparkify Churn
 
-Project description:
+## Project description:
 
 In this project, a smaller set of data 128 Mb was given to experiment on. Once all stages of cleaning, transforming, feature extraction, modeling and evaluating are ready, the scripts can be deployed to a AWS cluster to run on the 12 GB dataset stored in a AWS S3 bucket using Spark.
 
-Requested libraries: 
+## Requested libraries: 
 
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 
-Dataset: 
+## Dataset: 
 
 The dataset used in this project is bigger than the 100 Mb allowence for github file and is therefore not included in the project. 
 
 
-Results: 
+## Results: 
 
 The aim of this project is to understand and predict churn in a small user dataset, by using Apache Spark's analyrics engine and its powerful libraries.
 
